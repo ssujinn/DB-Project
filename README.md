@@ -1,10 +1,10 @@
-## DATABASE PROJECT
-# PROJ1
+# DATABASE PROJECT
+## PROJ1
 - DB design using ERWIN
 
-# PROJ2
+## PROJ2
 - DB Data Processing (SQL)
 
-# PROJ3
+## PROJ3
 - MongoDB: FP-Growth Algorithm
 - FP-tree & conditional tree
